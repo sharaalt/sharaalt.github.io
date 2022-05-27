@@ -6,4 +6,4 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Markdown
 
-<h1>Welcome to the site stick around<h1/>
+<h1>Welcome to the site stick around</h1>
